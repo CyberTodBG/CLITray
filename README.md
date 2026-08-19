@@ -13,15 +13,15 @@ The initial idea for this project came from wanting to run unsloth-studio withou
 - Optional autostart and fresh-log-per-launch (`fresh_log=1`)
 - No dependencies — a single static `.exe`
 
-## How to use
-There is a compiled version in /dist.
+## Installation
+Just download [CLITray (Latest Release)](https://github.com/CyberTodBG/CLITray/releases/download/v1.0/CLITray-v1.0.zip)
 
-Download the .exe and the .ini file.
+Unzip and set the path to the program in the .ini file.
 
 ## Build
 Cross-compiled with MinGW on Linux (`./build.sh`), no installer required.
 
 When running the build script to compile from source it asks for an icon file or generates a default one.
 
-## How it was made
+## Footnote
 This app was **vibe coded** with [OpenCode](https://opencode.ai). The code and debugging were produced through conversational prompts with **DeepSeek-V4-Flash**.

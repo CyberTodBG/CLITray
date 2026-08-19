@@ -15,11 +15,13 @@ The initial idea for this project came from wanting to run unsloth-studio withou
 
 ## How to use
 There is a compiled version in /dist.
+
 Download the .exe and the .ini file.
 
 ## Build
 Cross-compiled with MinGW on Linux (`./build.sh`), no installer required.
-When running the build script it asks for an icon file or generates a default one.
+
+When running the build script to compile from source it asks for an icon file or generates a default one.
 
 ## How it was made
 This app was **vibe coded** with [OpenCode](https://opencode.ai). The code and debugging were produced through conversational prompts with **DeepSeek-V4-Flash**.
